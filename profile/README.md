@@ -1,4 +1,4 @@
-![Tech with Dj Banner](../assets/techwithdj_banner-v1.0.1.png)
+![Tech with Dj Banner](assets/techwithdj_banner-v1.0.1.png)
 
 # Tech with Dj
 
